@@ -1,4 +1,3 @@
-<!DOCTYPE html>
+Hello World!
 
-
-<p>Hello World!</p>
+[Go to html file/page](/second.html)
